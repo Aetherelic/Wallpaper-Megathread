@@ -1,84 +1,95 @@
 <div align="center">
 
-✦ Wallpaper Megathread ✦
+# ✦ Wallpaper Megathread ✦
 
-A growing, categorised archive of wallpapers for desktops, phones and heavily over-customised Linux installations.
-
-<br>
-
-Wallpapers 
-Categories 
-Desktop 
-Mobile 
-License
+### A growing, categorised archive of wallpapers for desktops, phones and heavily over-customised Linux installations.
 
 <br>
 
-A large, growing collection of wallpapers organised by theme, colour palette, operating system and visual style.
+[![Wallpapers](https://img.shields.io/badge/WALLPAPERS-CURATED-7c3aed?style=for-the-badge&logo=materialdesign&logoColor=white)](#-preview-gallery)
+[![Categories](https://img.shields.io/badge/CATEGORIES-ORGANISED-2563eb?style=for-the-badge&logo=files&logoColor=white)](#-collections)
+[![Desktop](https://img.shields.io/badge/DESKTOP-READY-0f172a?style=for-the-badge&logo=linux&logoColor=white)](#-using-the-wallpapers)
+[![Mobile](https://img.shields.io/badge/MOBILE-INCLUDED-334155?style=for-the-badge&logo=apple&logoColor=white)](#-apple-wallpapers)
+[![License](https://img.shields.io/badge/REPOSITORY-MIT-38bdf8?style=for-the-badge)](LICENSE)
 
 <br>
 
-Gallery • 
-Collections • 
-Installation • 
-Usage • 
-Contributing • 
-Disclaimer
+A large, growing collection of wallpapers organised by **theme, colour palette, operating system and visual style**.
+
+Built for Linux ricing, desktop customisation, mobile setups and anyone who has spent significantly longer choosing a wallpaper than doing actual work.
+
+<br>
+
+> Find the palette.  
+> Set the wallpaper.  
+> Rebuild the entire desktop around it.
+
+<br>
+
+[Gallery](#-preview-gallery) •
+[Collections](#-collections) •
+[Installation](#-getting-the-collection) •
+[Usage](#-using-the-wallpapers) •
+[Contributing](#-contributing) •
+[Disclaimer](#-image-rights-and-attribution)
 
 </div>
 
 <br>
 
-￼
-✦ Quick Navigation
+---
 
-Preview gallery
+## ✦ Quick Navigation
 
-Catppuccin 
-Gruvbox Dark 
-Rose Pine 
-macOS 
-iOS 
-Arch Linux
+### Preview gallery
 
-Browse collections
+[Catppuccin](#-catppuccin) •
+[Gruvbox Dark](#-gruvbox-dark) •
+[Rose Pine](#-rose-pine) •
+[macOS](#-macos-wallpapers) •
+[iOS](#-ios-wallpapers) •
+[Arch Linux](#-arch-linux-logos)
 
-Anime 
-Apple 
-Catppuccin • 
-Gruvbox Dark • 
-Gruvbox Light • 
-Logos • 
-Minimalism • 
-Operating Systems • 
-Rose Pine
+### Browse collections
+
+[Anime](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Anime) •
+[Apple](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Apple%27s%20Wallpapers) •
+[Catppuccin](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Catppuccin) •
+[Gruvbox Dark](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Gruvbox%20Dark) •
+[Gruvbox Light](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Gruvbox%20Light) •
+[Logos](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos) •
+[Minimalism](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Minimalism) •
+[Operating Systems](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Operating%20Systems) •
+[Rose Pine](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Rose%20Pine)
 
 <br>
 
-￼
-✦ About the Collection
+---
+
+## ✦ About the Collection
 
 Wallpaper Megathread is a central archive for wallpapers gathered across different styles and platforms.
 
 The collection includes:
 
-	⁃	Dark and light colour-scheme wallpapers
-	⁃	Linux distribution artwork
-	⁃	Operating-system wallpapers
-	⁃	Desktop and mobile Apple wallpapers
-	⁃	Anime artwork
-	⁃	Minimalist backgrounds
-	⁃	Logo-focused wallpapers
-	⁃	Wallpapers suited to adaptive colour generators
-	⁃	Backgrounds suited to tiling window managers
-	⁃	Themes for terminal and desktop ricing
+- Dark and light colour-scheme wallpapers
+- Linux distribution artwork
+- Operating-system wallpapers
+- Desktop and mobile Apple wallpapers
+- Anime artwork
+- Minimalist backgrounds
+- Logo-focused wallpapers
+- Wallpapers suited to adaptive colour generators
+- Backgrounds suited to tiling window managers
+- Themes for terminal and desktop ricing
 
 The repository is arranged into folders so that wallpapers can be browsed by visual identity rather than through one enormous, unorganised directory.
 
 <br>
 
-￼
-✦ Preview Gallery
+---
+
+# ✦ Preview Gallery
 
 The images below are loaded directly from their respective folders inside this repository.
 
@@ -86,7 +97,7 @@ Click any image to open the original file on GitHub.
 
 <br>
 
-🌸 Catppuccin
+## 🌸 Catppuccin
 
 Soft pastels, dreamy landscapes and backgrounds designed around the Catppuccin colour family.
 
@@ -105,15 +116,17 @@ Soft pastels, dreamy landscapes and backgrounds designed around the Catppuccin c
 
 <div align="center">
 
-Browse Catppuccin
+[![Browse Catppuccin](https://img.shields.io/badge/BROWSE-CATPPUCCIN-cba6f7?style=for-the-badge&logoColor=1e1e2e)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Catppuccin)
 
 </div>
 
 <br>
 
-Return to navigation
-￼
-🟤 Gruvbox Dark
+[Return to navigation](#-quick-navigation)
+
+---
+
+## 🟤 Gruvbox Dark
 
 Warm browns, muted greens, burnt oranges and the unmistakable look of a terminal that has been configured far too carefully.
 
@@ -132,15 +145,17 @@ Warm browns, muted greens, burnt oranges and the unmistakable look of a terminal
 
 <div align="center">
 
-Browse Gruvbox Dark
+[![Browse Gruvbox Dark](https://img.shields.io/badge/BROWSE-GRUVBOX_DARK-d79921?style=for-the-badge&logoColor=282828)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Gruvbox%20Dark)
 
 </div>
 
 <br>
 
-Return to navigation
-￼
-🌹 Rose Pine
+[Return to navigation](#-quick-navigation)
+
+---
+
+## 🌹 Rose Pine
 
 Muted purples, soft highlights and elegant dark backgrounds inspired by the Rose Pine palette.
 
@@ -159,15 +174,17 @@ Muted purples, soft highlights and elegant dark backgrounds inspired by the Rose
 
 <div align="center">
 
-Browse Rose Pine
+[![Browse Rose Pine](https://img.shields.io/badge/BROWSE-ROSE_PINE-c4a7e7?style=for-the-badge&logoColor=191724)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Rose%20Pine)
 
 </div>
 
 <br>
 
-Return to navigation
-￼
-🍎 macOS Wallpapers
+[Return to navigation](#-quick-navigation)
+
+---
+
+## 🍎 macOS Wallpapers
 
 A collection spanning classic macOS releases, modern landscapes, dark variants, light variants and release-specific artwork.
 
@@ -186,15 +203,17 @@ A collection spanning classic macOS releases, modern landscapes, dark variants, 
 
 <div align="center">
 
-Browse macOS
+[![Browse macOS](https://img.shields.io/badge/BROWSE-macOS-334155?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Apple%27s%20Wallpapers/MacOS%20Wallpapers)
 
 </div>
 
 <br>
 
-Return to navigation
-￼
-📱 iOS Wallpapers
+[Return to navigation](#-quick-navigation)
+
+---
+
+## 📱 iOS Wallpapers
 
 Portrait wallpapers collected from different iPhone and iOS generations, including abstract, light, dark and animated-wallpaper preview artwork.
 
@@ -214,15 +233,17 @@ Portrait wallpapers collected from different iPhone and iOS generations, includi
 
 <div align="center">
 
-Browse iOS
+[![Browse iOS](https://img.shields.io/badge/BROWSE-iOS-475569?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Apple%27s%20Wallpapers/iOS%20Wallpapers)
 
 </div>
 
 <br>
 
-Return to navigation
-￼
-🐧 Arch Linux Logos
+[Return to navigation](#-quick-navigation)
+
+---
+
+## 🐧 Arch Linux Logos
 
 Arch Linux wallpapers ranging from clean logo designs to full desktop-ready backgrounds.
 
@@ -241,138 +262,155 @@ Arch Linux wallpapers ranging from clean logo designs to full desktop-ready back
 
 <div align="center">
 
-Browse Arch Linux
+[![Browse Arch Linux](https://img.shields.io/badge/BROWSE-ARCH_LINUX-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/Arch%20Linux)
 
 </div>
 
 <br>
 
-Return to navigation
-￼
-✦ Collections
+[Return to navigation](#-quick-navigation)
 
-🎌 Anime
+---
+
+# ✦ Collections
+
+## 🎌 Anime
 
 Illustrated and anime-style backgrounds for desktop setups.
 
-Open Anime
+[![Open Anime](https://img.shields.io/badge/OPEN-ANIME-f472b6?style=flat-square)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Anime)
 
 <br>
 
-🍎 Apple Wallpapers
+## 🍎 Apple Wallpapers
 
 A dedicated Apple collection containing separate desktop and mobile archives.
-Collection	Description
-macOS Wallpapers	Wallpapers from classic and modern macOS releases
-iOS Wallpapers	Portrait wallpapers for iPhone and other mobile displays
+
+| Collection | Description |
+|:--|:--|
+| [macOS Wallpapers](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Apple%27s%20Wallpapers/MacOS%20Wallpapers) | Wallpapers from classic and modern macOS releases |
+| [iOS Wallpapers](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Apple%27s%20Wallpapers/iOS%20Wallpapers) | Portrait wallpapers for iPhone and other mobile displays |
 
 <br>
 
-🌸 Catppuccin
+## 🌸 Catppuccin
 
 Pastel wallpapers suited to Catppuccin Mocha, Macchiato, Frappe and Latte-inspired setups.
 
-Open Catppuccin
+[![Open Catppuccin](https://img.shields.io/badge/OPEN-CATPPUCCIN-cba6f7?style=flat-square&logoColor=1e1e2e)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Catppuccin)
 
 <br>
 
-🟤 Gruvbox Dark
+## 🟤 Gruvbox Dark
 
 Dark wallpapers built around warm, earthy colours.
 
-Open Gruvbox Dark
+[![Open Gruvbox Dark](https://img.shields.io/badge/OPEN-GRUVBOX_DARK-d79921?style=flat-square&logoColor=282828)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Gruvbox%20Dark)
 
 <br>
 
-🟡 Gruvbox Light
+## 🟡 Gruvbox Light
 
 Lighter Gruvbox backgrounds for warm, bright desktop themes.
 
-Open Gruvbox Light
+[![Open Gruvbox Light](https://img.shields.io/badge/OPEN-GRUVBOX_LIGHT-fabd2f?style=flat-square&logoColor=3c3836)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Gruvbox%20Light)
 
 <br>
 
-🐧 Logos
+## 🐧 Logos
 
 Wallpaper collections organised by operating-system or distribution logo.
-Collection	Open
-Arch Linux	Browse
-CachyOS	Browse
-Debian	Browse
-Fedora	Browse
-Gentoo	Browse
-Kali	Browse
-Linux Mint	Browse
-macOS	Browse
-NixOS	Browse
-Nobara	Browse
-SteamOS	Browse
-Ubuntu	Browse
-Void Linux	Browse
-Windows	Browse
+
+| Collection | Open |
+|:--|:--:|
+| Arch Linux | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/Arch%20Linux) |
+| CachyOS | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/CachyOS) |
+| Debian | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/Debian) |
+| Fedora | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/Fedora) |
+| Gentoo | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/Gentoo) |
+| Kali | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/LarperOS%20%28Kali%29) |
+| Linux Mint | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/Linux%20Mint) |
+| macOS | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/MacOS) |
+| NixOS | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/NixOS) |
+| Nobara | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/Nobara) |
+| SteamOS | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/SteamOS) |
+| Ubuntu | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/Ubuntu) |
+| Void Linux | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/Void%20Linux) |
+| Windows | [Browse](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Logos/Windows) |
 
 <br>
 
-◻️ Minimalism
+## ◻️ Minimalism
 
 Simple compositions, clean shapes and backgrounds that leave room for bars, widgets and tiled windows.
 
-Open Minimalism
+[![Open Minimalism](https://img.shields.io/badge/OPEN-MINIMALISM-64748b?style=flat-square)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Minimalism)
 
 <br>
 
-💻 Operating Systems
+## 💻 Operating Systems
 
 Wallpapers based on desktop operating systems and their visual identities.
 
-Open Operating Systems
+[![Open Operating Systems](https://img.shields.io/badge/OPEN-OPERATING_SYSTEMS-2563eb?style=flat-square)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Operating%20Systems)
 
 <br>
 
-🌹 Rose Pine
+## 🌹 Rose Pine
 
 Dark, muted and elegant wallpapers suited to Rose Pine-themed environments.
 
-Open Rose Pine
+[![Open Rose Pine](https://img.shields.io/badge/OPEN-ROSE_PINE-c4a7e7?style=flat-square&logoColor=191724)](https://github.com/Aetherelic/Wallpaper-Megathread/tree/main/Rose%20Pine)
 
 <br>
 
-Return to navigation
-￼
-✦ Getting the Collection
+[Return to navigation](#-quick-navigation)
 
-Clone everything
+---
+
+# ✦ Getting the Collection
+
+## Clone everything
 
 Clone the complete repository:
 
+```bash
 git clone https://github.com/Aetherelic/Wallpaper-Megathread.git
+```
 
 Move into the collection:
 
+```bash
 cd Wallpaper-Megathread
+```
 
 Open the folder in your file manager:
 
+```bash
 xdg-open .
+```
 
-[!NOTE] 
-Wallpaper repositories can become large as new images are added.
+> [!NOTE]
+> Wallpaper repositories can become large as new images are added.
 
 <br>
 
-Clone without full Git history
+## Clone without full Git history
 
 For a smaller initial download:
 
+```bash
 git clone --depth=1 \
   https://github.com/Aetherelic/Wallpaper-Megathread.git
+```
 
 <br>
 
-Download only selected categories
+## Download only selected categories
 
 Git sparse checkout can retrieve only the folders you need.
 
+```bash
 git clone \
   --depth=1 \
   --filter=blob:none \
@@ -380,192 +418,113 @@ git clone \
   https://github.com/Aetherelic/Wallpaper-Megathread.git
 
 cd Wallpaper-Megathread
+```
 
 Select one or more collections:
 
+```bash
 git sparse-checkout set \
   "Catppuccin" \
   "Gruvbox Dark" \
   "Rose Pine"
+```
 
 Add another collection later:
 
+```bash
 git sparse-checkout add "Logos/NixOS"
+```
 
 <br>
 
-Update an existing clone
+## Update an existing clone
 
+```bash
 cd Wallpaper-Megathread
 git pull
+```
 
 <br>
 
-Return to navigation
-￼
-✦ Using the Wallpapers
+[Return to navigation](#-quick-navigation)
 
-Hyprpaper
-
-Example hyprpaper.conf:
-
-preload = ~/Pictures/Wallpaper-Megathread/Gruvbox Dark/after_school_stroll_gruvbox.png
-
-wallpaper = DP-1,~/Pictures/Wallpaper-Megathread/Gruvbox Dark/after_school_stroll_gruvbox.png
-
-splash = false
-
-Restart Hyprpaper:
-
-pkill hyprpaper 2>/dev/null || true
-hyprpaper &
+---
 
 <br>
 
-Awww
-
-Apply a wallpaper with a transition:
-
-awww img \
-  "$HOME/Pictures/Wallpaper-Megathread/Catppuccin/artificial-valley.jpg" \
-  --transition-type grow \
-  --transition-duration 1.2
-
-<br>
-
-Swww
-
-swww img \
-  "$HOME/Pictures/Wallpaper-Megathread/Rose Pine/circle-2.png" \
-  --transition-type grow \
-  --transition-duration 1
-
-<br>
-
-GNOME
-
-gsettings set \
-  org.gnome.desktop.background \
-  picture-uri \
-  "file://$HOME/Pictures/Wallpaper-Megathread/Catppuccin/3d-model.jpg"
-
-For dark mode:
-
-gsettings set \
-  org.gnome.desktop.background \
-  picture-uri-dark \
-  "file://$HOME/Pictures/Wallpaper-Megathread/Catppuccin/3d-model.jpg"
-
-<br>
-
-KDE Plasma
-
-Open:
-
-System Settings
-└── Wallpaper
-    └── Add Image
-
-Then select a file from the cloned repository.
-
-<br>
-
-NixOS
+## NixOS
 
 The repository can be cloned into your wallpaper directory:
 
+```bash
 mkdir -p ~/Pictures
 
 git clone \
   --depth=1 \
   https://github.com/Aetherelic/Wallpaper-Megathread.git \
   ~/Pictures/Wallpaper-Megathread
+```
 
 You can then reference files from Hyprpaper, Swww, Awww, Stylix, Matugen or your chosen desktop configuration.
 
 <br>
 
-Return to navigation
-￼
-✦ Adaptive Theming
-
-These wallpapers work especially well with colour-generation tools such as:
-
-	⁃	Matugen
-	⁃	Pywal
-	⁃	Wallust
-	⁃	Stylix
-	⁃	Custom Quickshell theme generators
-	⁃	Rofi colour-generation scripts
-
-A typical adaptive-theme pipeline looks like this:
-
-┌────────────────────┐
-│     Wallpaper      │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ Colour extraction  │
-└─────────┬──────────┘
-          │
-          ├──────────────┬──────────────┬──────────────┐
-          ▼              ▼              ▼              ▼
-      Hyprland         Terminal        Rofi         Quickshell
-       borders          colours        menus          widgets
-
-The wallpaper stops being a background and becomes the foundation of the entire desktop palette.
+[Return to navigation](#-quick-navigation)
 
 <br>
 
-￼
-✦ Contributing
+---
+
+# ✦ Contributing
 
 New wallpapers and improved organisation are welcome.
 
-Adding wallpapers
+## Adding wallpapers
 
-	1.	Fork the repository.
-	2.	Choose the most appropriate category.
-	3.	Add the wallpaper to that folder.
-	4.	Use a useful, descriptive filename.
-	5.	Avoid submitting exact duplicates.
-	6.	Include attribution or source details when known.
-	7.	Open a pull request describing what was added.
+1. Fork the repository.
+2. Choose the most appropriate category.
+3. Add the wallpaper to that folder.
+5. Avoid submitting exact duplicates.
+6. Open a pull request describing what was added.
 
 Example:
 
+```text
 Wallpaper-Megathread/
 └── Catppuccin/
     └── moonlit-valley.jpg
+```
 
-New categories
+## New categories
 
 A new category should:
 
-	⁃	Contain several wallpapers
-	⁃	Be clearly distinct from existing folders
-	⁃	Have a concise and descriptive name
-	⁃	Fit the overall purpose of the repository
+- Contain several wallpapers
+- Be clearly distinct from existing folders
+- Have a concise and descriptive name
+- Fit the overall purpose of the repository
 
-Recommended formats
+## Recommended formats
 
 Preferred formats include:
 
+```text
 .png
 .jpg
 .jpeg
 .webp
+```
 
 Large, lossless files are welcome when the additional quality is useful, but avoid unnecessary duplication.
 
 <br>
 
-￼
-✦ Image Rights and Attribution
+---
 
-[!IMPORTANT] 
-This repository is a curated wallpaper archive.
+# ✦ Image Rights and Attribution
+
+> [!IMPORTANT]
+> This repository is a curated wallpaper archive.
 
 The repository's MIT licence does not automatically grant ownership of, or relicense, artwork created by third parties.
 
@@ -573,10 +532,10 @@ Individual images may remain subject to the copyright, licence or usage terms of
 
 If you are the creator or rights holder of an image in this repository and would like:
 
-	⁃	Attribution added
-	⁃	Source information corrected
-	⁃	A licence clarified
-	⁃	An image removed
+- Attribution added
+- Source information corrected
+- A licence clarified
+- An image removed
 
 Please open an issue with the relevant file path and supporting information.
 
@@ -584,9 +543,11 @@ No ownership of third-party artwork is claimed unless explicitly stated.
 
 <br>
 
-￼
-✦ Repository Structure
+---
 
+# ✦ Repository Structure
+
+```text
 Wallpaper-Megathread/
 ├── Anime/
 ├── Apple's Wallpapers/
@@ -615,30 +576,27 @@ Wallpaper-Megathread/
 ├── Rose Pine/
 ├── LICENSE
 └── README.md
+```
 
 <br>
 
-￼
-✦ Licence
+---
 
-The repository structure, documentation and original project material are released under the MIT Licence.
+# ✦ Licence
 
-See Image Rights and Attribution for important information concerning individual wallpaper files.
+The repository structure, documentation and original project material are released under the [MIT Licence](LICENSE).
+
+See [Image Rights and Attribution](#-image-rights-and-attribution) for important information concerning individual wallpaper files.
 
 <br>
 
-￼
+---
+
 <div align="center">
 
-Your desktop deserves better than the default wallpaper.
-
 <br>
 
-Browse Wallpapers 
-Aetherelic
-
-<br><br>
-
-Choose a wallpaper. Rebuild the rice. Repeat indefinitely.
+[![Browse Wallpapers](https://img.shields.io/badge/BROWSE-THE_COLLECTION-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aetherelic/Wallpaper-Megathread)
+[![Aetherelic](https://img.shields.io/badge/CURATED_BY-AETHERELIC-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aetherelic)
 
 </div>

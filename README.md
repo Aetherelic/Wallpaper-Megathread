@@ -16,14 +16,6 @@
 
 A large, growing collection of wallpapers organised by **theme, colour palette, operating system and visual style**.
 
-Built for Linux ricing, desktop customisation, mobile setups and anyone who has spent significantly longer choosing a wallpaper than doing actual work.
-
-<br>
-
-> Find the palette.  
-> Set the wallpaper.  
-> Rebuild the entire desktop around it.
-
 <br>
 
 [Gallery](#-preview-gallery) •
